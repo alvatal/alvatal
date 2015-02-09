@@ -1,5 +1,3 @@
-# MTÜ Alvatali paberimajandus ja töödokumendid
+# MTÜ Alvatali
 
-* Käimasolevad projektid:
-  * Veeb (Lauri)
-* XXX
+* Töödokumendid asuvad [wikis](https://github.com/alvatal/alvatal/wiki)
