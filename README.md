@@ -1,3 +1,3 @@
-# MTÜ Alvatali
+# MTÜ Alvatali töödokumendid [asuvad wikis](https://github.com/alvatal/alvatal/wiki)
 
-* Töödokumendid asuvad [wikis](https://github.com/alvatal/alvatal/wiki)
+* <https://github.com/alvatal/alvatal/wiki>
