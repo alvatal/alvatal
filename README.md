@@ -1,2 +1,5 @@
-# alvatal
-Alvatali paberimajandus ja töödokumendid
+# MTÜ Alvatali paberimajandus ja töödokumendid
+
+* Käimasolevad projektid:
+  * Veeb (Lauri)
+* XXX
